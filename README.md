@@ -5,5 +5,5 @@ This is the first mini-project I have made in C++! It's a simple task app that h
 
 ## Screenshots
 
-![App Screenshot](\screenshots\Screenshot_11.png)
+![App Screenshot](screenshots\Screenshot_11.png)
 
