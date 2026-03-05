@@ -113,7 +113,7 @@ void viewTasks(vector<Task>& tasks) {
         cout << "[" << i+1 << "] ";
 
         if (tasks[i].completed)
-            cout << "[✓] ";
+            cout << "[C] ";
         else
             cout << "[ ] ";
 
